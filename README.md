@@ -15,9 +15,11 @@ This build promotes exploration of the effect the launch angle of Nerf darts has
 
 ![finished](docs/dart_finished.jpeg)
 
-## Wiring Diagram
+## Electronics
 
-![wiring](docs/dart_fritzing.png)
+![fritzing wiring diagram](docs/dart_fritzing.png)
+
+![electronics](docs/dart_electronics.png)
 
 ## Files
 
